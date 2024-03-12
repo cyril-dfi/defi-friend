@@ -3,6 +3,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+owners_networks_pools.csv
+
 # C extensions
 *.so
 
