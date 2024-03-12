@@ -45,7 +45,7 @@ To use the project, follow these steps:
 - Run the script:
 ```python check_in_range.py```
 
-- Then you can run it every X minutes as it suits you
+- Then you can schedule to run it every X minutes as it suits you.
 
 # Contributing to DeFi Friend
 To contribute to this project, follow these steps:
