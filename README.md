@@ -1,5 +1,5 @@
 # DeFi Friend
-DeFi Liquidity providooors, DeFi Friend is your friendly bot that helps you make sure that your positions are always in range, by pinging you every time one of your positions gets out of range.
+DeFi Liquidity Providooors, DeFi Friend is your friendly bot that helps you make sure that your positions are always in range, by pinging you every time one of your positions gets out of range.
 
 # Description
 We, the manual LPooors of DeFi, love doing our daily routine checks on our open positions. Our most pressing question in the morning when we wake up is usually: is my position still in range?
