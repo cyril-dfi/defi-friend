@@ -36,7 +36,6 @@ To use the project, follow these steps:
 - Update the owners_networks_pools.csv file with the relevant information about owners, networks, and pools. This is what an example file would look like (this is a random address I found)
   
   ```owner,network,pool```
-  
   ```0x37Ff9172beCAf3B78284822eD55a03FAB0Bc9E27,mainnet,0xd50c68c7fbaee4f469e04cebdcfbf1113b4cdadf```
 
 - Run the script:
@@ -49,8 +48,8 @@ To use the project, follow these steps:
 To contribute to this project, follow these steps:
 
 - Fork this repository.
-- Create a branch: git checkout -b <branch_name>.
-- Make your changes and commit them: git commit -m '<commit_message>'
-- Push to the original branch: git push origin <project_name>/<location>
+- Create a branch: ```git checkout -b <branch_name>```.
+- Make your changes and commit them: ```git commit -m '<commit_message>'```
+- Push to the original branch: ```git push origin <project_name>/<location>```
 - Create the pull request.
 - Alternatively, see the GitHub documentation on creating a pull request.
