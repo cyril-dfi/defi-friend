@@ -39,7 +39,6 @@ To use the project, follow these steps:
   ```
 
 - Run the script:
-  
 ```python check_in_range.py```
 
 - Then you can run it every X minutes as it suits you
