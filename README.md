@@ -35,8 +35,8 @@ Create a .env file in the root directory with your Infura API key and Discord we
 To use the project, follow these steps:
 - Update the owners_networks_pools.csv file with the relevant information about owners, networks, and pools. This is what an example file would look like (this is a random address I found)
   
-  ```owner,network,pool```
-  ```0x37Ff9172beCAf3B78284822eD55a03FAB0Bc9E27,mainnet,0xd50c68c7fbaee4f469e04cebdcfbf1113b4cdadf```
+  ```owner,network,pool
+  0x37Ff9172beCAf3B78284822eD55a03FAB0Bc9E27,mainnet,0xd50c68c7fbaee4f469e04cebdcfbf1113b4cdadf```
 
 - Run the script:
   
