@@ -32,9 +32,10 @@ WEBHOOK_URL=your_discord_webhook_url_here
 # Usage
 To use the project, follow these steps:
 - Update the owners_networks_pools.csv file. 'owners_networks_pools.csv' is a csv with 3 columns: 
-    1. owner (address of the LP user), 
-    2. network (at the moment "mainnet" and "zksync" are supported)
+    1. owner (0x address of the LP user),
+    2. network, aka chain (at the moment, only `mainnet` and `zksync` are supported),
     3. pool (0x address of the pool).
+  
   This is what an example file would look like (with a random address I found):
   ```
   owner,network,pool
