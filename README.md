@@ -18,22 +18,29 @@ Before you begin, ensure you have met the following requirements:
 Follow these steps to install:
 
 Clone the repository:
+
 ```git clone git@github.com:cyrilauberger/defi-friend.git```
 
 Install required Python packages:
+
 ```pip install -r requirements.txt```
 
 Create a .env file in the root directory with your Infura API key and Discord webhook URL:
+
 ```INFURA_KEY=your_infura_api_key_here```
+
 ```WEBHOOK_URL=your_discord_webhook_url_here```
 
 # Usage
 To use the project, follow these steps:
 - Update the owners_networks_pools.csv file with the relevant information about owners, networks, and pools. This is what an example file would look like (this is a random address I found)
+  
   ```owner,network,pool```
+  
   ```0x37Ff9172beCAf3B78284822eD55a03FAB0Bc9E27,mainnet,0xd50c68c7fbaee4f469e04cebdcfbf1113b4cdadf```
 
 - Run the script:
+  
 ```python check_in_range.py```
 
 - Then you can run it every X minutes as it suits you
