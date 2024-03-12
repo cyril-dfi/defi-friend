@@ -7,7 +7,7 @@ Well, as much as we love checking this manually, wouldn't it be nice to have som
 
 The goal of DeFi Friend is very simple: notify you on discord whenever your LP position is out of range. So you don't have to worry about manual checks, and you can just passively wait for DeFi Friend to ping you whenever you need to act (if you decide to).
 
-At the moment, DeFi Friend is only working on the Maverick DEX on ETH Mainnet and ZKSync, but I plan on adding more Dexes and chains in the future if that's useful.
+At the moment, DeFi Friend is only working on the Maverick DEX (https://twitter.com/mavprotocol) on ETH Mainnet and ZKSync, but I plan on adding more Dexes and chains in the future if that's useful.
 
 DeFi Friend is a read-only script, created in Python. It will never ask you your private key or to sign a transaction.
 
