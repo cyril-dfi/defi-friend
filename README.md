@@ -17,19 +17,17 @@ Before you begin, ensure you have met the following requirements:
 # Installation
 Follow these steps to install:
 
-Clone the repository:
-
+- Clone the repository:
 ```git clone git@github.com:cyrilauberger/defi-friend.git```
 
-Install required Python packages:
-
+- Install required Python packages:
 ```pip install -r requirements.txt```
 
-Create a .env file in the root directory with your Infura API key and Discord webhook URL:
-
-```INFURA_KEY=your_infura_api_key_here```
-
-```WEBHOOK_URL=your_discord_webhook_url_here```
+- Create a .env file in the root directory with your Infura API key and Discord webhook URL:
+```
+INFURA_KEY=your_infura_api_key_here
+WEBHOOK_URL=your_discord_webhook_url_here
+```
 
 # Usage
 To use the project, follow these steps:
