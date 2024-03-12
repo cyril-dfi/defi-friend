@@ -4,9 +4,11 @@ DeFi Liquidity providooors, DeFi Friend is your friendly bot that helps you make
 # Description
 We, the manual LPooors of DeFi, love doing our daily routine checks on our open positions. Our most pressing question in the morning when we wake up is usually: is my position still in range?
 Well, as much as we love checking this manually, wouldn't it be nice to have some tiny piece of automation in our highly manual DeFi fun?
-The goal of DeFi Friend is very simple: notify you on discord whenever your LP position is out of range.
-So you don't have to worry about manual checks, and just passively wait for DeFi Friend to ping you when you need to act (if you decide to).
+
+The goal of DeFi Friend is very simple: notify you on discord whenever your LP position is out of range. So you don't have to worry about manual checks, and just passively wait for DeFi Friend to ping you when you need to act (if you decide to).
+
 At the moment, DeFi Friend is only working on the Maverick DEX on ETH Mainnet and ZKSync, but I plan on adding more Dexes and chains in the future if that's useful.
+
 DeFi Friend is a read-only script, created in Python. It will never ask you your private key or to sign a transaction.
 
 # Prerequisites
