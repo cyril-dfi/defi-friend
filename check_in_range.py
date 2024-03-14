@@ -33,6 +33,6 @@ for line in owners_networks_pools[1:]: # Remove the title line
 
         # Check the response
         if response.status_code == 204:
-            logging.info("Notification sent successfully! Owner %s is out of range on pool %s", owner.hex(), pool.hex())
+            logging.info(f"Notification sent successfully! Owner {owner.hex()} is out of range on pool {pool.hex()}")
         else:
-            logging.error("Failed to send notification for owner %s on pool %s. Status code: %d", owner.hex(), pool.hex(), response.status_code)
+            logging.error(f"Failed to send notification for owner {owner.hex()} on pool {pool.hex()}. Status code: {response.status_code}")
