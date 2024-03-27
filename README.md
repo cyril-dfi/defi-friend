@@ -21,7 +21,7 @@ Before you begin, ensure you have met the following requirements:
 Follow these steps to install:
 
 - Clone the repository:
-```git clone git@github.com:cyrilauberger/defi-friend.git```
+```git clone git@github.com:cyril-dfi/defi-friend.git```
 
 - Install required Python packages:
 ```pip install -r requirements.txt```
